@@ -60,7 +60,7 @@
     "solid-auth-tls": "0.0.4",
     "solid-namespace": "^0.1.0",
     "solid-permissions": "^0.4.1",
-    "solid-web-client": "0.0.9"
+    "solid-web-client": "elf-pavlik/solid-web-client#ok"
   },
   "devDependencies": {
     "babel-cli": "^6.11.4",
