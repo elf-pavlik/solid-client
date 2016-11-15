@@ -46,7 +46,7 @@ var ns = require('solid-namespace')(rdf)
  * @static
  */
 var Solid = {
-  acl: acl.acl,
+  acl: acl,
   AppRegistration: require('./lib/solid/app-registration'),
   appRegistry: require('./lib/app-registry'),
   auth: auth,
